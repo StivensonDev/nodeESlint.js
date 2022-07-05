@@ -2,7 +2,7 @@
   "name": "13-linting-en-js",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
     "lint-fix": "eslint --fix ."
   },
